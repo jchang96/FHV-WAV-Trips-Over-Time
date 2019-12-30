@@ -1,5 +1,3 @@
 # FHV-WAV-Trips-Over-Time
 
-<p align="center">
-  <img src="Time Series Map.html" width="450" height="300"/>
-</p>
+https://github.com/jchang96/FHV-WAV-Trips-Over-Time/blob/master/Time%20Series%20Map.html
