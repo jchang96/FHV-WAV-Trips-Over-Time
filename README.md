@@ -1,3 +1,5 @@
 # FHV-WAV-Trips-Over-Time
 
-![Alt text](Time Series Map.html?raw=true "Time Series Map")
+<p align="center">
+  <img src="Time Series Map.html" width="450" height="300"/>
+</p>
