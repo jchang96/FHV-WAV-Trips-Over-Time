@@ -4,4 +4,4 @@
 <br>
 <hr>
 
-Jean Chang is a Data Analyst at the New York City Taxi and Limousine Commission
+*Jean Chang is a Data Analyst at the New York City Taxi and Limousine Commission*
